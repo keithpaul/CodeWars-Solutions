@@ -1,8 +1,9 @@
 # CodeWars-Solutions
 Questions and Answers for CodeWars
 
+No point writing the level 8 and 7 kyu's as they are easy and do not require as much thought
 
-#6kyu
+# 6kyu
 
 Q: Write a function toWeirdCase (weirdcase in Ruby) that accepts a string, and returns the same string with all even indexed characters in each word upper cased, and all odd indexed characters in each word lower cased. The indexing just explained is zero based, so the zero-ith index is even, therefore that character should be upper cased.
 
@@ -242,7 +243,7 @@ function charCheck(text, max, spaces){
 _______________________________________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________
 
-#5Kyu
+# 5Kyu
 
 Q: Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 
@@ -262,7 +263,7 @@ var moveZeros = function (arr) {
 
 _______________________________________________________________________________________________________________________________________
 
-#4Kyu
+# 4Kyu
 
 Q: Given the string representations of two integers, return the string representation of the sum of those integers.
 
